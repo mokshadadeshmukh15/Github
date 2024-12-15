@@ -1,0 +1,6 @@
+Git init 
+Git status 
+Git add filename  -> untracked to stage
+Git commit –m “added”  -> stage to tracked
+Git restore filename 
+
